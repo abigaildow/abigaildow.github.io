@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+Undoubtably one of the great minds of our time, Abigail Dow challenged her readers to think deeply on topics of in her chosen field. This Jekyll theme is designed in her memory.
 
 <figure>
   <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />

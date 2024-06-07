@@ -11,5 +11,5 @@ My email address is abidow@bu.edu.
 
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <img src="https://github.com/abigaildow/abigaildow.github.io/blob/master/assets/images/circle_headshot.png" />
 </figure>

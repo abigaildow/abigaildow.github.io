@@ -2,6 +2,7 @@
 layout: post
 title: About
 ---
+![Headshot](https://abigaildow.github.io/assets/images/circle_headshot.png)
 
 I am a PhD student in Economist at Boston University. Before my doctoral studies, I obtained a B.A. in Economics & Management from the University of Oxford and an M.Sc in Economics from University College London. I also worked for the U.K. Government Economic Service on energy price modelling, digital markets, and family related policies. 
 
@@ -10,5 +11,4 @@ I am an applied microeconomist working on topics in health and gender economics.
 My email address is abidow@bu.edu. 
 
 
-![Headshot](https://abigaildow.github.io/assets/images/circle_headshot.png)
 

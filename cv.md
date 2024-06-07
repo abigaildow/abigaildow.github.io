@@ -3,4 +3,5 @@ layout: post
 title: CV
 ---
 
-[Download my CV](https://github.com/abigaildow/abigaildow.github.io/blob/master/assets/abigail_dow_cv.pdf))
+[Download my CV](https://abigaildow.github.io/assets/abigail_dow_cv.pdf))
+

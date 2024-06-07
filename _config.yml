@@ -18,7 +18,7 @@ email: abidow@bu.edu
 description: abidow@bu.edu
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abigaildow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-icon: /assets/images/favicon.ico
+icon: /assets/images/circle_headshot.png
 twitter_username: abi_dow
 # github_username:  patdryburgh
 

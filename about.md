@@ -10,4 +10,5 @@ I am an applied microeconomist working on topics in health and gender economics.
 My email address is abidow@bu.edu. 
 
 
-![Headshot](/abigaildow.github.io/assets/images/circle_headshot.png)
+![Headshot](https://abigaildow.github.io/assets/images/circle_headshot.png)
+

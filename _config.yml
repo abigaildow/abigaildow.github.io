@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Abigail Dow
 email: abidow@bu.edu
-description: PhD student in Economics, Boston University
+description: PhD student in Economics, 
+Boston University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abigaildow.com" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/circle_headshot.png

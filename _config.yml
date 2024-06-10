@@ -17,7 +17,7 @@ title: Abigail Dow
 email: abidow@bu.edu
 description: PhD student in Economics, Boston University
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://abigaildow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "abigaildow.com" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/circle_headshot.png
 twitter_username: abi_dow
 # github_username:  patdryburgh

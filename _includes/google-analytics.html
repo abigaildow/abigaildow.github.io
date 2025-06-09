@@ -1,29 +1,11 @@
 {%- if site.google_analytics -%}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
 <script>
-  // Respect “Do Not Track”
-  if (
-    !(window.doNotTrack === "1"
-      || navigator.doNotTrack === "1"
-      || navigator.doNotTrack === "yes"
-      || navigator.msDoNotTrack === "1")
-  ) {
-    // Load gtag.js
-    var gaID = "{{ site.google_analytics }}";
-    var head = document.getElementsByTagName('head')[0];
-
-    var script1 = document.createElement('script');
-    script1.async = true;
-    script1.src = "https://www.googletagmanager.com/gtag/js?id=" + gaID;
-    head.appendChild(script1);
-
-    var script2 = document.createElement('script');
-    script2.innerHTML = "\
-      window.dataLayer = window.dataLayer || [];\
-      function gtag(){dataLayer.push(arguments);}\
-      gtag('js', new Date());\
-      gtag('config', '" + gaID + "');\
-    ";
-    head.appendChild(script2);
-  }
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.google_analytics }}');
 </script>
 {%- endif -%}
+

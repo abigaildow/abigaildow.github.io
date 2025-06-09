@@ -20,7 +20,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abigaildow.com" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/circle_headshot.png
 twitter_username: abi_dow
-google_analytics: G-N1PXP4BYMH
 # github_username:  patdryburgh
 
 # Build settings

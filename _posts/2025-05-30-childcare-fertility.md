@@ -5,7 +5,7 @@ author: "Abigail Dow"
 categories: opinion
 ---
 
-The Price of Parenthood: Childcare Costs and Fertility (working paper)
+The Price of Parenthood: Childcare Costs and Fertility (working paper) (Job Market paper)
 
 <!-- excerpt_separator -->
 

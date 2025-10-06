@@ -3,6 +3,7 @@ layout: post
 title: About
 ---
 
+<!-- ![Headshot](https://abigaildow.github.io/assets/images/circle_headshot.png)-->
 <img src="https://abigaildow.github.io/assets/images/headshot_2025_edited.jpeg" alt="Headshot" style="max-width:300px; height:auto;">
 
 

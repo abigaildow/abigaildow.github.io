@@ -16,7 +16,8 @@ title: Research
 <a href="https://abigaildow.github.io/assets/docs/NFP_mental_health.pdf">
   Intensive Nurse Home Visiting and Perinatal Mental Health in Low-Income Mothers
 </a><br>
-<em>Abigail Dow, Dea Oviedo, Michelle Woodford Martin, Mary Ann Bates, Katherine Baicker, Alecia McGregor, and Margaret McConnell</em><br>
+<em>Abigail Dow, Dea Oviedo, Michelle Woodford Martin, Mary Ann Bates, Katherine Baicker, Alecia McGregor, and Margaret McConnell</em>
+
 Awarded the 2024 ASHEcon Program Chair Award for Maternal, Sexual, and Reproductive Health
 
 <h2>Works in Progress</h2>

@@ -10,7 +10,7 @@ title: Research
 </a>
 
 <a href="https://abigaildow.github.io/assets/docs/abigail_dow_psl.pdf">
-  The Effects of Paid Sick Leave on Healthcare Utilisation: Evidence on Maternal Care
+  Does More Prenatal Care Improve Health Outcomes? Evidence from Paid Sick Leave Mandates
 </a>
 
 <a href="https://abigaildow.github.io/assets/docs/NFP_mental_health.pdf">

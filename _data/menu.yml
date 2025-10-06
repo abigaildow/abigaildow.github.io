@@ -5,7 +5,10 @@
   url: /about.html
 
 - title: CV
-  url: /cv.html
+ #url: /cv.html
+ url: /assets/docs/abigail_dow_cv.pdf
 
 - title: Contact
   url: /contact.html
+
+

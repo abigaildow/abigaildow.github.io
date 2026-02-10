@@ -9,7 +9,7 @@ title: Research
   The Price of Parenthood: Childcare Costs and Fertility (Job Market paper)
 </a>
 
-Covered by <a href="https://www.the74million.org/zero2eight/the-high-cost-of-child-care-is-making-mothers-rethink-having-kids/">The 74</a>
+Covered by <a href="https://www.the74million.org/zero2eight/the-high-cost-of-child-care-is-making-mothers-rethink-having-kids/">The 74</a>, <a href="https://19thnews.org/2026/01/high-child-care-costs-fertility-decisions/">The 19th</a>
 
 <a href="https://abigaildow.github.io/assets/docs/abigail_dow_psl.pdf">
   Does More Prenatal Care Improve Health Outcomes? Evidence from Paid Sick Leave Mandates

@@ -11,7 +11,7 @@ I am a PhD candidate in Economics at Boston University. Before my doctoral studi
 
 I am an applied microeconomist working on topics in health and family economics. In my current research, I study determinants of fertility rates, maternal health, and policies targeting low-income families.     
 
-I am on the 2025-2026 job market.
+In August 2026 I will be a postdoctoral fellow at the FAIR Institute at the Norwegian School of Economics (NHH). 
 
 
 

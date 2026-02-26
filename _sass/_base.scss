@@ -92,7 +92,7 @@ img {
   display: flex;
   max-width: 100%;
   height: auto;
-  margin: 2em auto;
+  margin: 0.5em auto 2em;
 }
 
 figure img {
@@ -160,8 +160,3 @@ figcaption {
   }
 }
 
-.headshot {
-  max-width: 300px;
-  height: auto;
-  margin-top: 0.5em;
-}

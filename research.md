@@ -6,7 +6,7 @@ title: Research
 <h2>Working Papers</h2>
 
 <a href="https://abigaildow.github.io/assets/docs/dow_childcare_fertility.pdf">
-  The Price of Parenthood: Childcare Costs and Fertility (Job Market paper)
+  The Price of Parenthood: Childcare Costs and Fertility
 </a>
 
 Covered by <a href="https://www.nytimes.com/2026/04/26/business/children-rising-costs.html">The New York Times</a>, <a href="https://www.the74million.org/zero2eight/the-high-cost-of-child-care-is-making-mothers-rethink-having-kids/">The 74</a>, <a href="https://19thnews.org/2026/01/high-child-care-costs-fertility-decisions/">The 19th</a>, <a href="https://newsletter.wealthfront.com/vested-interest?utm_source=vestedinterests&utm_medium=pageshare#theStory">Vested Interest</a>

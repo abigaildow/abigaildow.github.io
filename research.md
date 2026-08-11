@@ -28,6 +28,6 @@ Disbelieved and Unrelieved? Gender in Doctor Patient Relationships
 
 Urban Parks and Health <br> <em>Abigail Dow, Jessie Lu, and Graeme Peterson</em>
 
-Variation in Physician Prices for Pregnancy and Delivery Care in the United States <br> <em>Rebecca Brooks Smith, Abigail Dow, David Wherly, Michael Chernew, and Anna Sinaiko </em>
+Variation in Physician Prices for Pregnancy and Delivery Care in the United States <br> <em>Abigail Dow, Rebecca Brooks Smith, David Wherly, Michael Chernew, and Anna Sinaiko </em>
 
 

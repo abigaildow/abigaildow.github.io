@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Abigail Dow
-email: abidow@bu.edu
-description: PhD candidate in Economics, Boston University
+email: abigail.dow@nhh.no
+description: Postdoctoral Fellow, FAIR Institute, Norwegian School of Economics (NHH)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abigaildow.com" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/circle_headshot.png
